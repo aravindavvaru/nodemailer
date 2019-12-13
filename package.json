@@ -1,6 +1,6 @@
 {
     "name": "nodemailer-for-pmta",
-    "version": "6.4.2",
+    "version": "1.0.0",
     "description": "Nodemailer for PowerMTA",
     "main": "lib/nodemailer.js",
     "scripts": {
