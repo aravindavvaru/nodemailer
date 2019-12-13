@@ -1,24 +1,24 @@
 {
-    "name": "nodemailer",
+    "name": "nodemailer-for-pmta",
     "version": "6.4.2",
-    "description": "Easy as cake e-mail sending from your Node.js applications",
+    "description": "Nodemailer for PowerMTA",
     "main": "lib/nodemailer.js",
     "scripts": {
         "test": "grunt"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/nodemailer/nodemailer.git"
+        "url": "https://github.com/dynamicnet/nodemailer.git"
     },
     "keywords": [
         "Nodemailer"
     ],
-    "author": "Andris Reinman",
+    "author": "Andris Reinman / David Tourel",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/nodemailer/nodemailer/issues"
+        "url": "https://github.com/dynamicnet/nodemailer/issues"
     },
-    "homepage": "https://nodemailer.com/",
+    "homepage": "https://github.com/dynamicnet/nodemailer",
     "devDependencies": {
         "bunyan": "1.8.12",
         "chai": "4.2.0",
